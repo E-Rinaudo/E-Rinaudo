@@ -47,9 +47,6 @@ I'm still building confidence with these tools and libraries, but I enjoy learni
 
 ---
 
-*Always learning, always building, even if just for myself and those around me.*
-
-
 <!-- BADGES -->
 [Python-badge]: https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=flat
 [Python-url]: https://docs.python.org/3/
