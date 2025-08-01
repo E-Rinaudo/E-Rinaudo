@@ -43,10 +43,6 @@ I'm still building confidence with these tools and libraries, but I enjoy learni
 
 ---
 
-> “I prefer listening and learning over adding to the noise. I share when I feel I have something valuable to offer.”
-
----
-
 <!-- BADGES -->
 [Python-badge]: https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=flat
 [Python-url]: https://docs.python.org/3/
