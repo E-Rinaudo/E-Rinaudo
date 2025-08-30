@@ -39,7 +39,7 @@ I'm still building confidence with these tools and libraries, but I enjoy learni
 
 ## 📫 Contact
 
-- Email: enricorinaudo91@gmail.com
+- Email: erinaudo.gh@w.ernode.com
 
 ---
 
