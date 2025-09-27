@@ -1,7 +1,7 @@
-# Hi, I'm Enrico 👋
+# Enrico Rinaudo's GitHub Profile👋
 
-I'm a self-taught programmer from Italy, fascinated by logic and problem solving.
-While I wouldn’t call myself the most "techy" person, I started programming because I enjoy tackling challenges and understanding how things work under the hood.
+Hi there! My name is Enrico Rinaudo and I'm a self-taught programmer from Italy, fascinated by logic and problem solving.
+I started programming because I enjoy tackling challenges and understanding how things work under the hood.
 
 ## 🚀 Projects & Learning Journey
 
