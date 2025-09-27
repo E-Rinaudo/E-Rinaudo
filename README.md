@@ -1,4 +1,4 @@
-# Enrico Rinaudo's GitHub Profile👋
+# Enrico Rinaudo's GitHub Profile 👋
 
 Hi there! My name is Enrico Rinaudo and I'm a self-taught programmer from Italy, fascinated by logic and problem solving.
 I started programming because I enjoy tackling challenges and understanding how things work under the hood.
