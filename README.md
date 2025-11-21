@@ -38,7 +38,7 @@ I also enjoy comics, sneakers, sports, hiking, and video games
 [C-url]: [https://en.wikipedia.org/wiki/C_(programming_language)](https://en.cppreference.com/w/c/language.html)
 [Bash-badge]: https://img.shields.io/badge/Bash%2FShell-4EAA25?logo=gnubash&logoColor=white&style=flat
 [Bash-url]: https://www.gnu.org/software/bash/
-[SQL-badge]]: https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat
+[SQL-badge]: https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat
 [SQL-url]: https://www.w3schools.com/sql/
 [VSCode-badge]: https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat
 [VSCode-url]: https://code.visualstudio.com/docs
